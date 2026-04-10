@@ -1,0 +1,14 @@
+{
+  "vehicles": [
+    {
+      "vin": "12345",
+      "aes_key": "F000BC5200001000800000805F9B34FB",
+      "firmware_url": "https://github.com/DeepakTVS123/BLE-OTA/Binfile/TVMS/TVSM_Premium_Key_FOB_V2.1_Test_SW.bin"
+    },
+    {
+      "vin": "123456",
+      "aes_key": "F000BC5200001000800000805F9B34FB",
+      "firmware_url": "https://github.com/DeepakTVS123/BLE-OTA/Binfile/TVMS/TVSM_Premium_Key_FOB_V2.1_Test_SW.bin"
+    }
+  ]
+}
